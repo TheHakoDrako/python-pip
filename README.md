@@ -7,3 +7,13 @@ Laboratorio en el cual, realizo diferentes pruebas de entornos virtuales y pytho
 - Manejo de versiones con git.
 
 Creado por: `Jeronimo Ramírez Mejía (TheHakoDrako or Jero Rm)`
+
+
+# Game proyect
+
+Instrucciones para el manejo del juego:
+
+```sh
+cd game
+python3 main.py
+```
